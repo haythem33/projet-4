@@ -1,0 +1,199 @@
+body {
+    margin: 0px;
+    background-color: #167079;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.bloc1 {
+    
+    
+    background-color: #031019;
+}
+.Blur {
+    position: absolute;
+    left: 50px;
+    top :1px;
+    font-size: 35px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: 	#064C48;
+}
+.Admin {
+    border: 1px solid #031019;
+    background-color: #031019;
+    padding-right: 1139px;
+    padding-bottom: 27px;
+    padding-top: 35px;
+    position: absolute;
+    left : 114px;
+    top : -36px;
+    font-size: 35px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+.icon1 {
+    width: 20px;
+    position: absolute;
+    top: 49px;
+    left : 333px;
+}
+.recherche {
+    position: absolute;
+    top : 51px;
+    left : 361px;
+    border: 1px solid #031019;
+    
+    
+    background-color:  #031019;
+}
+.recherche::placeholder {
+    color: #323A45;
+    font-size: 20px;
+}
+.p {
+    position: absolute;
+    left: 894px;
+    top: 29px;
+    color: white;
+}
+.lien1 {
+    text-decoration: none;
+    color: #08504C;
+}
+.icon2 {
+    width: 30px;
+    position: absolute;
+    left: 1141px;
+    top: 49px;
+}
+.icon3 {
+    width: 30px;
+    position: absolute;
+    left: 1182px;
+    top: 49px;
+}
+.icon4 {
+    border: 1px solid black;
+    width: 99px;
+    position: absolute;
+    left: 1225px;
+    top: 23px;
+    border-radius: 43px;
+}
+.bloc2{
+    border: 1px solid #031019;
+    height: 660px;
+    margin-right: 1120px;
+    background-color: #031019;
+    
+}
+.dashbord,.composant,.charts,.UI,.form,.table,.Maps {
+    text-decoration: none;
+    display: flex;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 1px solid #031019;
+    color: white;
+}
+.Maps {
+    position: absolute;
+    bottom: 131px;
+    padding-right: 100px;
+    padding-left: 102px;
+    padding-bottom: 26px;
+    padding-top: 7px;
+    margin-top: 31px;
+    margin-bottom: 5px;
+}
+.table {
+    position: absolute;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    bottom: 192px;
+}
+.form {
+    position: absolute;
+    padding-left: 60px;
+    padding-right: 68px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    bottom: 252px;
+}
+.UI {
+    position: absolute;
+    padding-left: 80px;
+    padding-right: 79px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    bottom: 312px;
+}
+.charts {
+    position: absolute;
+    bottom: 372px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-right: 96px;
+    padding-left: 96px
+}
+.composant {
+    position: absolute;
+    top: 169px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 79px;
+    padding-right: 75px;
+}
+.dashbord {
+    position: absolute;
+    top: 127px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 84px;
+    padding-left: 85px;
+}
+.dashbord:hover,.composant:hover,.charts:hover,.UI:hover,.form:hover,.table:hover,.Maps:hover {
+      background-color: #019F94;
+      border: 1px solid #019F94;
+}
+.icon5 {
+    position: absolute;
+    top: 134px;
+    left: 10px;
+    width: 25px;
+}
+.icon6 {
+    width: 25px;
+    position: absolute;
+    top:187px;
+    left: 10px;
+}
+.icon7 {
+    width: 25px;
+    position: absolute;
+    left: 10px;
+    top : 249px;
+}
+.icon8 {
+    width: 25px;
+    position: absolute;
+    left: 10px;
+    top: 305px;
+}
+.icon9 {
+    width: 25px;
+    position: absolute;
+    left: 10px;
+    top: 365px;
+}
+.icon10 {
+    width: 25px;
+    position: absolute;
+    left: 10px;
+    top: 425px;
+}
+.icon11 {
+    width: 25px;
+    position: absolute;
+    left: 10px;
+    top: 482px;
+}
